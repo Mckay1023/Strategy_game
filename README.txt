@@ -1,0 +1,4 @@
+This is a Strategy Game in progress using Epic Games Unreal Engine. Contained in this folder is some of the starter content that the Engine provides for you, most of which
+are not used at all. In the content folder under Strategy Game you will find Blueprints that were created by me for use in the game. Anything created in C++ must be turned
+into a blueprint for it to interact with other blueprints in the game so I chose this method instead of the C++ method. The blueprints may not be visible and I do not know
+how to make them visible unless you download the UnrealEngine and load the project.  
